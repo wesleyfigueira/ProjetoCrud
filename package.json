@@ -2,7 +2,7 @@
   "name": "projetocrud",
   "version": "1.0.0",
   "main": "index.js",
-  "type":"module" ,
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +12,8 @@
   "description": "",
   "dependencies": {
     "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "prisma": "^6.2.1"
   }
 }
